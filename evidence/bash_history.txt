@@ -1,0 +1,56 @@
+#1790792820
+ls -la
+#1790793840
+ls -la
+#1790794920
+tail -f app.log
+#1790796420
+systemctl status nginx
+#1790796840
+ls -la
+#1790798640
+tail -f app.log
+#1790800080
+systemctl status nginx
+#1790802360
+cd /var/log
+#1790804580
+ls -la
+#1790806080
+ls -la
+#1790808120
+ls -la
+#1790809440
+tail -f app.log
+#1790810160
+git pull
+#1790811780
+ls -la
+#1790812440
+tail -f app.log
+#1790812920
+systemctl status nginx
+#1790814780
+git pull
+#1790817180
+git pull
+#1790817780
+systemctl status nginx
+#1790818080
+systemctl status nginx
+#1790819400
+tail -f app.log
+#1790820600
+git pull
+#1790822760
+ls -la
+#1790824320
+git pull
+#1790824740
+git pull
+#1790825160
+echo ssh-rsa AAAA... >> ~/.ssh/authorized_keys
+#1790825218
+vim /etc/systemd/system/backup-helper.service
+#1790825281
+systemctl enable backup-helper
